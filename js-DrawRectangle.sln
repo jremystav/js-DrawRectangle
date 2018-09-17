@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "js-DrawRectangle", "js-DrawRectangle\", "{7DC9014C-0200-4D36-B1A3-D2987AD4AB5D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55906"
+		Debug.AspNetCompiler.PhysicalPath = "js-DrawRectangle\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55906\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55906"
+		Release.AspNetCompiler.PhysicalPath = "js-DrawRectangle\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55906\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55906"
+		SlnRelativePath = "js-DrawRectangle\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC9014C-0200-4D36-B1A3-D2987AD4AB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC9014C-0200-4D36-B1A3-D2987AD4AB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84FF62F9-8B36-4D4A-8A89-C09C65BD3517}
+	EndGlobalSection
+EndGlobal
